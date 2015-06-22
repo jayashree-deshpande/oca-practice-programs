@@ -8,7 +8,7 @@ public class Test1{
 			System.out.println("one");
 		if(s1.equals(s2))
 			System.out.println("two");
-		// Compiler gives error on the following line String and StringBuilder cannot be compared
+		// Compiler gives error on the following line incompatible oprands String and StringBuilder 
 		if(s1 == "meo")
 		  System.out.println("three");
 		if(s1.toString() == "meo")
