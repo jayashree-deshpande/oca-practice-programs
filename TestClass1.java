@@ -4,7 +4,7 @@ class Data {
         this.x = x; this.y = y;
     }
 }
-public class TestClass {
+public class TestClass1 {
     public static void main(String[] args) throws Exception {
         Data d = new Data(1, 1);
         d.x = 2;
