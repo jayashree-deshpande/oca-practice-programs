@@ -1,0 +1,28 @@
+public class MinMaxValues {
+	public static void main(String[] args)
+	{
+		
+		int i = 1234567890;
+		float f = i;
+		System.out.println(i - (int)f);
+		
+		int j = 1234567890;
+		double d = j;
+		System.out.println(j - (int)d);
+		System.out.println("Byte min =" + Byte.MIN_VALUE);
+		System.out.println("Byte max =" + Byte.MAX_VALUE);
+		System.out.println("Short min =" +Short.MIN_VALUE);
+		System.out.println("Short max =" +Short.MAX_VALUE);
+		System.out.println("Character min =" + Character.MIN_VALUE);
+		System.out.println("Character max =" + Character.MAX_VALUE);
+		System.out.println("Integer min =" +Integer.MIN_VALUE);
+		System.out.println("Integer max =" +Integer.MAX_VALUE);
+		System.out.println("Float min =" + Float.MIN_VALUE);
+		System.out.println("Float max =" +Float.MAX_VALUE);
+		System.out.println("Double min =" + Double.MIN_VALUE);
+		System.out.println("Double max =" +Double.MAX_VALUE);
+		
+		
+	}
+			
+}
