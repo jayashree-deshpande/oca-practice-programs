@@ -1,0 +1,11 @@
+Byte min =-128
+Byte max =127
+Short min =-32768
+Short max =32767
+Character min =
+Integer min =-2147483648
+Integer max =2147483647
+Float min =1.4E-45
+Float max =3.4028235E38
+Double min =4.9E-324
+Double max =1.7976931348623157E308
